@@ -1,0 +1,9 @@
+D:\jeky\jack\Calculator\bin\Debug\Calculator.exe.config
+D:\jeky\jack\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\jeky\jack\Calculator\obj\Debug\Calculator.Form1.resources
+D:\jeky\jack\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\jeky\jack\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\jeky\jack\Calculator\bin\Debug\Calculator.exe
+D:\jeky\jack\Calculator\bin\Debug\Calculator.pdb
+D:\jeky\jack\Calculator\obj\Debug\Calculator.exe
+D:\jeky\jack\Calculator\obj\Debug\Calculator.pdb
